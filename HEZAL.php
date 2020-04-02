@@ -33,8 +33,7 @@ function kkktp_banner(){
   ███   ▀█▀    ▄████▀    ▄████▀                  ███   ▀█▀   ███   ▀█▀ 
   ▀                                                          ▀         
 
- ║ Coded by:  ./HEZAL     ║ ║ Youtube  : Inti Tutorial   ║
- ║ Team : NewbieTester Id ║ ║ Whatsapp : 0853-3261-4787  ║     					  
+ RIZKY BUGZ ONE BUG AND BUG     					  
   \n";
 }
 ?> 
